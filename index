@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<link rel="stylesheet" href="style.css">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <script src="https://kit.fontawesome.com/89c53758df.js" crossorigin="anonymous"></script>
+
+</head>
+<body>
+
+<div class="content">
+
+  <div class="row">
+  <div class="column">
+  <img src="erin-105.jpg" alt="Erin Victoria" style="max-width:100%;height:auto;">
+  </div>
+
+  
+  <div class="column">
+    <h1 style="font-size:5vw">Erin Victoria</h1>
+    <p><h2 style="font-size:2vw">I like doing things that can help people more meaningfully connect to themselves, to others, and to the world around them.</h2></p>
+
+    <a href="https://www.workilluminated.com" target="blank">Work Illuminated</a>
+    <br>
+    <br>
+    <a href="https://www.pdxyardshare.org" target="blank">PDX Yard Share</a>
+    <br>
+    <br>
+    <a href="http://emergencyempathy.com" target="blank">Emergency Empathy</a>
+    <br>
+    <br>
+    <a href="http://re-pdx.org" target="blank">Re:PDX Directory</a>
+    <br>
+    <br>
+    </p>
+    <a href="mailto:hi@erinvictoria.net"><i class="fa-solid fa-envelope fa-xl" style="color: #e1cbf6;"></i></a>
+    <a href="https://www.linkedin.com/erincherry"><i class="fa-brands fa-linkedin fa-xl" style="color: #e1cbf6;"></i></a>
+    </div>
+</div>
+</div>
+
+</body>
+</html>
